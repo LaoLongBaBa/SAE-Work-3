@@ -1,0 +1,29 @@
+#app{
+    margin: auto;
+    width: 50%;
+    padding: auto;
+}
+
+.header{
+    display: flex;
+}
+
+.header div,.default-item div{
+    width: 100%;
+    border: solid 1px;
+    padding: 5px;
+    text-align: center;
+}
+
+.default-item{
+    display: flex;
+}
+
+.new-item{
+    display: flex;
+}
+
+.new-item input{
+    width: 100%;
+}
+

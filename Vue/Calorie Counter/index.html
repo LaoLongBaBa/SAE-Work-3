@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./main.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <div id="app">
+
+
+        <div class="header">
+            <div>Name</div>
+            <div>Calories</div>
+            <div>Carbs</div>
+            <div>Fat</div>
+            <div>Protein</div>
+        </div>
+
+        <div>
+            <div v-for="(item,index) in food" class="default-item">
+                <div>{{ item.name }}</div>
+                <div>{{ item.calories }}</div>
+                <div>{{ item.carbs }}</div>
+                <div>{{ item.fat }}</div>
+                <div>{{ item.protein }}</div>
+                <button @click="removeItem(index)">X</button>
+            </div>
+
+            <div class="default-item">
+                <div>Totol</div>
+                <div>{{ totols.calories }}</div>
+                <div>{{ totols.carbs }}</div>
+                <div>{{ totols.fat }}</div>
+                <div>{{ totols.protein }}</div>
+            </div>
+
+            <div class="new-item">
+                <input type="text" placeholder="Food Name" v-model="newItem.name">
+                <input type="text" placeholder="Calories" v-model="newItem.calories">
+                <input type="text" placeholder="Carbs" v-model="newItem.carbs">
+                <input type="text" placeholder="Fat" v-model="newItem.fat">
+                <input type="text" placeholder="Protein" v-model="newItem.protein">
+                <button @click="addNewItem">+</button>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
