@@ -1,0 +1,19 @@
+html,body,div#app{
+    height: 100%;
+    width: 100%;
+}
+
+div#dot{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    transition: 1s;
+}
+
+button{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}

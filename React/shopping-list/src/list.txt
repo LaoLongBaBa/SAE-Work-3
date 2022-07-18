@@ -1,0 +1,6 @@
+- Display a shopping wish list
+- One component for all products
+- Remove button, when clicking it the item should be deleted from the shopping wish list
+
+BONUS:
+- Browser should keep items deleted after page reload

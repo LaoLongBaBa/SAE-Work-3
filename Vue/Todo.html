@@ -17,7 +17,8 @@
         <p v-if="!todolist[0]">There is nothing ...</p>
 
         <ul>
-            <li v-for="(todo,index) in todolist"> {{ todo }}
+            <li v-for="(todo,index) in todolist"> 
+                {{ todo }}
                 <button @click="removetodo(index)">X</button>
             </li>
         </ul>

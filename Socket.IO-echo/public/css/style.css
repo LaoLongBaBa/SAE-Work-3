@@ -1,0 +1,12 @@
+.message{
+    padding: 10px;
+    border: 1px black solid;
+}
+
+.ownMessage{
+    background-color: aqua;
+}
+
+.botMessage{
+    background-color: aquamarine;
+}

@@ -1,0 +1,29 @@
+.container,
+.header-right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-right h1:first-child{
+    padding-right: 30px;
+}
+
+.header{
+    background-color: aqua;
+    color: white;
+}
+
+.header h1{
+    margin: 0;
+    padding: 10px 15px;
+}
+
+.header a{
+    text-decoration: none;
+}
+
+.header h1:hover{
+    cursor: pointer;
+    background-color: blue;
+}

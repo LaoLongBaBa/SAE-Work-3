@@ -1,0 +1,58 @@
+{
+"Pet": [
+    {
+        "id": 0,
+        "name": "cat",
+        "image": "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
+        "description": "A cat is a furry animal that has a long tail and sharp claws. Cats are often kept as pets. 2. countable noun. Cats are lions, tigers, and other wild animals in the same family."
+    },
+    {
+        "id": 1,
+        "name": "dog",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=0.672xw:1.00xh;0.166xw,0&resize=640:*",
+        "description": "The dog is a pet animal. A dog has sharp teeth so that it can eat flesh very easily, it has four legs, two ears, two eyes, a tail, a mouth, and a nose. It is a very clever animal and is very useful in catching thieves. It runs very fast, barks loudly and attacks the strangers."
+    },
+    {
+        "id": 2,
+        "name": "bird",
+        "image": "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png",
+        "description": "any warm-blooded vertebrate of the class Aves, having a body covered with feathers, forelimbs modified into wings, scaly legs, a beak, and no teeth, and bearing young in a hard-shelled egg."
+    },
+    {
+        "id": 3,
+        "name": "fish",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/NaGo-Ynjy5Op3n9PYq7iySRQAO8=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/d6/93/d6939718-4e41-44a8-a8f3-d13648d2bcd0/c3npbx.jpg",
+        "description": "Fish are aquatic vertebrate animals that have gills but lack limbs with digits, like fingers or toes. Recall that vertebrates are animals with internal backbones. Most fish are streamlined in their general body form."
+    },
+    {
+        "id": 4,
+        "name": "guinea pig",
+        "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Guinea-Pig-Appreciation-Day.jpg",
+        "description": "Guinea Pigs have a very distinctive appearance with small, stout bodies with no tail and a large head with large and alert eyes. They have strong, short legs with four toes on their front feet and three on the back, all with sharp claws that help them when they are burrowing and scrabbling around in the wild."
+    },
+    {
+        "id": 5,
+        "name": "ferret",
+        "image": "https://assets.petco.com/petco/image/upload/c_pad,dpr_1.0,f_auto,q_auto,h_636,w_636/c_pad,h_636,w_636/153044-left-1",
+        "description": "A ferret is a small, furry creature with a cone-shaped nose, long tail and a long, pear-shaped body with short legs and long claws. Ferrets are related to wolverines, ermines, minks and weasels in the Mustela genus. They are popular, though often controversial, pets."
+    },
+    {
+        "id": 6,
+        "name": "turtle",
+        "image": "https://worldbirds.com/wp-content/uploads/2020/05/turtle5.jpg",
+        "description": "turtle, any reptile with a body encased in a bony shell, including tortoises. Although numerous animals, from invertebrates to mammals, have evolved shells, none has an architecture like that of turtles. The turtle shell has a top and a bottom "
+    },
+    {
+        "id": 7,
+        "name": "duck",
+        "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/05/08/thumbs_b_c_0f01dd9158ac529eeb48830fa766634f.jpg?v=174254",
+        "description": "The stereotypical “duck” has a torpedo shaped body, rounded head, and a slightly flattened and rounded bill. Some species are quite small, while others are larger, but they are smaller than geese and swans. They also have relatively long necks, but again, shorter than geese and swans."
+    },
+    {
+        "id": 8,
+        "name": "camel",
+        "image": "https://animals.sandiegozoo.org/sites/default/files/inline-images/camel_dromedary.jpg",
+        "description": "Camels are beautiful, huge, strong animals that make wonderful pets. They are intelligent and sociable, making them loving companions at home. However, the proper care for a camel is needed in order to care properly for these magnificent animals."
+    }
+]
+}

@@ -1,0 +1,6 @@
+- Card component for showing the pets
+- Npoint for pet name, description & image.
+- Header & footer main page
+- Different page on pet click
+- Webshop layout, price, amount, checkout
+- 
